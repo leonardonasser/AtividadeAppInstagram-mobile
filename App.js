@@ -195,7 +195,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'grey'
+    backgroundColor: '#f5f5f5'
   },
   icon: {
     width: 25,
